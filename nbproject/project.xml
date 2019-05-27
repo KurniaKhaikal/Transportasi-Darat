@@ -3,8 +3,17 @@
     <type>org.netbeans.modules.java.j2seproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
+<<<<<<< HEAD
             <name>TUBES_PBO2</name>
             <explicit-platform explicit-source-supported="true"/>
+=======
+<<<<<<< HEAD
+            <name>PBO_TUBES</name>
+            <explicit-platform explicit-source-supported="true"/>
+=======
+            <name>Tubes PBO</name>
+>>>>>>> d7e628f147cae16cce2d5968268c64c2f3504305
+>>>>>>> a4a19bbf1be1d5811d48fe8c5e8a8f2d87b56d39
             <source-roots>
                 <root id="src.dir"/>
             </source-roots>
